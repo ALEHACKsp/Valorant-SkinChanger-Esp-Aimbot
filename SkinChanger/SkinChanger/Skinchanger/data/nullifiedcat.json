@@ -1,0 +1,142 @@
+{
+    "Upgradeable TF_WEAPON_PISTOL": {
+        "skin": "workshop_hana",
+        "attributes": {
+            "killstreak idleeffect": "Hot Rod",
+            "attach particle effect": "Cool",
+            "set_item_texture_wear": 0.0
+        }
+    },
+    "Upgradeable TF_WEAPON_SHOTGUN_PRIMARY": {
+        "skin": "workshop_hana",
+        "attributes": {
+            "killstreak idleeffect": "Hot Rod",
+            "attach particle effect": "Cool",
+            "set_item_texture_wear": 0.0
+        }
+    },
+    "Upgradeable TF_WEAPON_SCATTERGUN": {
+        "australium": true,
+        "attributes": {
+            "killstreak idleeffect": "Deadly Daffodil",
+            "attach particle effect": "Energy Orb"
+        }
+    },
+    "Upgradeable TF_WEAPON_ROCKETLAUNCHER": {
+        "australium": true,
+        "attributes": {
+            "killstreak idleeffect": "Deadly Daffodil",
+            "attach particle effect": "Energy Orb"
+        }
+    },
+    "Upgradeable TF_WEAPON_FLAMETHROWER": {
+        "skin": "workshop_fiery_inferno",
+        "attributes": {
+            "killstreak idleeffect": "Manndarin",
+            "attach particle effect": "Hot",
+            "set_item_texture_wear": 0.0
+        }
+    },
+    "Upgradeable TF_WEAPON_GRENADELAUNCHER": {
+        "skin": "workshop_neo_tokyo",
+        "attributes": {
+            "killstreak idleeffect": "Hot Rod",
+            "attach particle effect": "Energy Orb",
+            "set_item_texture_wear": 0.0
+        }
+    },
+    "Upgradeable TF_WEAPON_PIPEBOMBLAUNCHER": {
+        "skin": "workshop_neo_tokyo",
+        "attributes": {
+            "killstreak idleeffect": "Hot Rod",
+            "attach particle effect": "Energy Orb",
+            "set_item_texture_wear": 0.0
+        }
+    },
+    "Upgradeable TF_WEAPON_MINIGUN": {
+        "australium": true,
+        "attributes": {
+            "killstreak idleeffect": "Hot Rod",
+            "attach particle effect": "Energy Orb"
+        }
+    },
+    "Upgradeable TF_WEAPON_WRENCH": {
+        "australium": true,
+        "attributes": {
+            "killstreak idleeffect": "Deadly Daffodil",
+            "attach particle effect": "Energy Orb"
+        }
+    },
+    "Upgradeable TF_WEAPON_MEDIGUN": {
+        "skin": "workshop_dovetailed",
+        "attributes": {
+            "killstreak idleeffect": "Hot Rod",
+            "attach particle effect": "Cool",
+            "set_item_texture_wear": 0.0
+        }
+    },
+    "Upgradeable TF_WEAPON_SNIPERRIFLE": {
+        "skin": "workshop_cosmic_calamity",
+        "attributes": {
+            "killstreak idleeffect": "Hot Rod",
+            "set_item_texture_wear": 0.0
+        }
+    },
+    "Upgradeable TF_WEAPON_SMG": {
+        "skin": "workshop_cosmic_calamity",
+        "attributes": {
+            "killstreak idleeffect": "Hot Rod",
+            "set_item_texture_wear": 0.0
+        }
+    },
+    "Upgradeable TF_WEAPON_REVOLVER": {
+        "skin": "workshop_miami_element",
+        "attributes": {
+            "killstreak idleeffect": "Hot Rod",
+            "set_item_texture_wear": 0.0
+        }
+    },
+    "Upgradeable TF_WEAPON_KNIFE": {
+        "australium": true,
+        "attributes": {
+            "killstreak idleeffect": "Hot Rod",
+            "set_item_texture_wear": 0.0
+        }
+    },
+    "The Blutsauger": {
+        "australium": true,
+        "attributes": {
+            "killstreak idleeffect": "Hot Rod"
+        }
+    },
+    "The Quick-Fix": {
+        "attributes": {
+            "killstreak idleeffect": "Hot Rod",
+            "is_festivized": 1
+        }
+    },
+    "The Kritzkrieg": {
+        "attributes": {
+            "killstreak idleeffect": "Manndarin",
+            "is_festivized": 1
+        }
+    },
+    "The Phlogistinator": {
+        "attributes": {
+            "killstreak idleeffect": "Hot Rod"
+        }
+    },
+    "The Black Box": {
+        "australium": true,
+        "attributes": {
+            "killstreak idleeffect": "Hot Rod",
+            "is_festivized": 1
+        }
+    },
+    "The Beggar's Bazooka": {
+        "attributes": {
+            "killstreak idleeffect": "Hot Rod",
+            "is_festivized": 1
+        }
+    }
+}

@@ -1,0 +1,3849 @@
+{
+    "attributes": {
+        "damage penalty": {
+            "index": 1,
+            "integer": false
+        },
+        "damage bonus": {
+            "index": 2,
+            "integer": false
+        },
+        "clip size penalty": {
+            "index": 3,
+            "integer": false
+        },
+        "clip size bonus": {
+            "index": 4,
+            "integer": false
+        },
+        "fire rate penalty": {
+            "index": 5,
+            "integer": false
+        },
+        "fire rate bonus": {
+            "index": 6,
+            "integer": false
+        },
+        "heal rate penalty": {
+            "index": 7,
+            "integer": false
+        },
+        "heal rate bonus": {
+            "index": 8,
+            "integer": false
+        },
+        "ubercharge rate penalty": {
+            "index": 9,
+            "integer": false
+        },
+        "ubercharge rate bonus": {
+            "index": 10,
+            "integer": false
+        },
+        "overheal bonus": {
+            "index": 11,
+            "integer": false
+        },
+        "overheal decay penalty": {
+            "index": 12,
+            "integer": false
+        },
+        "overheal decay bonus": {
+            "index": 13,
+            "integer": false
+        },
+        "overheal decay disabled": {
+            "index": 14,
+            "integer": false
+        },
+        "crit mod disabled": {
+            "index": 15,
+            "integer": false
+        },
+        "heal on hit for rapidfire": {
+            "index": 16,
+            "integer": false
+        },
+        "add uber charge on hit": {
+            "index": 17,
+            "integer": false
+        },
+        "medigun charge is crit boost": {
+            "index": 18,
+            "integer": false
+        },
+        "tmp dmgbuff on hit": {
+            "index": 19,
+            "integer": false
+        },
+        "crit vs burning players": {
+            "index": 20,
+            "integer": false
+        },
+        "dmg penalty vs nonburning": {
+            "index": 21,
+            "integer": false
+        },
+        "no crit vs nonburning": {
+            "index": 22,
+            "integer": false
+        },
+        "mod flamethrower push": {
+            "index": 23,
+            "integer": false
+        },
+        "mod flamethrower back crit": {
+            "index": 24,
+            "integer": false
+        },
+        "hidden secondary max ammo penalty": {
+            "index": 25,
+            "integer": false
+        },
+        "max health additive bonus": {
+            "index": 26,
+            "integer": false
+        },
+        "alt-fire disabled": {
+            "index": 27,
+            "integer": false
+        },
+        "crit mod disabled hidden": {
+            "index": 28,
+            "integer": false
+        },
+        "fists have radial buff": {
+            "index": 30,
+            "integer": false
+        },
+        "critboost on kill": {
+            "index": 31,
+            "integer": false
+        },
+        "slow enemy on hit": {
+            "index": 32,
+            "integer": false
+        },
+        "set cloak is feign death": {
+            "index": 33,
+            "integer": false
+        },
+        "mult cloak meter consume rate": {
+            "index": 34,
+            "integer": false
+        },
+        "mult cloak meter regen rate": {
+            "index": 35,
+            "integer": false
+        },
+        "spread penalty": {
+            "index": 36,
+            "integer": false
+        },
+        "hidden primary max ammo bonus": {
+            "index": 37,
+            "integer": false
+        },
+        "mod bat launches balls": {
+            "index": 38,
+            "integer": false
+        },
+        "dmg penalty vs nonstunned": {
+            "index": 39,
+            "integer": false
+        },
+        "zoom speed mod disabled": {
+            "index": 40,
+            "integer": false
+        },
+        "sniper charge per sec": {
+            "index": 41,
+            "integer": false
+        },
+        "sniper no headshots": {
+            "index": 42,
+            "integer": false
+        },
+        "scattergun no reload single": {
+            "index": 43,
+            "integer": false
+        },
+        "scattergun has knockback": {
+            "index": 44,
+            "integer": false
+        },
+        "bullets per shot bonus": {
+            "index": 45,
+            "integer": false
+        },
+        "sniper zoom penalty": {
+            "index": 46,
+            "integer": false
+        },
+        "sniper no charge": {
+            "index": 47,
+            "integer": false
+        },
+        "set cloak is movement based": {
+            "index": 48,
+            "integer": false
+        },
+        "no double jump": {
+            "index": 49,
+            "integer": false
+        },
+        "absorb damage while cloaked": {
+            "index": 50,
+            "integer": false
+        },
+        "revolver use hit locations": {
+            "index": 51,
+            "integer": false
+        },
+        "backstab shield": {
+            "index": 52,
+            "integer": false
+        },
+        "fire retardant": {
+            "index": 53,
+            "integer": false
+        },
+        "move speed penalty": {
+            "index": 54,
+            "integer": false
+        },
+        "obsolete ammo penalty": {
+            "index": 55,
+            "integer": false
+        },
+        "jarate description": {
+            "index": 56,
+            "integer": false
+        },
+        "health regen": {
+            "index": 57,
+            "integer": false
+        },
+        "self dmg push force increased": {
+            "index": 58,
+            "integer": false
+        },
+        "self dmg push force decreased": {
+            "index": 59,
+            "integer": false
+        },
+        "dmg taken from fire reduced": {
+            "index": 60,
+            "integer": false
+        },
+        "dmg taken from fire increased": {
+            "index": 61,
+            "integer": false
+        },
+        "dmg taken from crit reduced": {
+            "index": 62,
+            "integer": false
+        },
+        "dmg taken from crit increased": {
+            "index": 63,
+            "integer": false
+        },
+        "dmg taken from blast reduced": {
+            "index": 64,
+            "integer": false
+        },
+        "dmg taken from blast increased": {
+            "index": 65,
+            "integer": false
+        },
+        "dmg taken from bullets reduced": {
+            "index": 66,
+            "integer": false
+        },
+        "dmg taken from bullets increased": {
+            "index": 67,
+            "integer": false
+        },
+        "increase player capture value": {
+            "index": 68,
+            "integer": false
+        },
+        "health from healers reduced": {
+            "index": 69,
+            "integer": false
+        },
+        "health from healers increased": {
+            "index": 70,
+            "integer": false
+        },
+        "weapon burn dmg increased": {
+            "index": 71,
+            "integer": false
+        },
+        "weapon burn dmg reduced": {
+            "index": 72,
+            "integer": false
+        },
+        "weapon burn time increased": {
+            "index": 73,
+            "integer": false
+        },
+        "weapon burn time reduced": {
+            "index": 74,
+            "integer": false
+        },
+        "aiming movespeed increased": {
+            "index": 75,
+            "integer": false
+        },
+        "maxammo primary increased": {
+            "index": 76,
+            "integer": false
+        },
+        "maxammo primary reduced": {
+            "index": 77,
+            "integer": false
+        },
+        "maxammo secondary increased": {
+            "index": 78,
+            "integer": false
+        },
+        "maxammo secondary reduced": {
+            "index": 79,
+            "integer": false
+        },
+        "maxammo metal increased": {
+            "index": 80,
+            "integer": false
+        },
+        "maxammo metal reduced": {
+            "index": 81,
+            "integer": false
+        },
+        "cloak consume rate increased": {
+            "index": 82,
+            "integer": false
+        },
+        "cloak consume rate decreased": {
+            "index": 83,
+            "integer": false
+        },
+        "cloak regen rate increased": {
+            "index": 84,
+            "integer": false
+        },
+        "cloak regen rate decreased": {
+            "index": 85,
+            "integer": false
+        },
+        "minigun spinup time increased": {
+            "index": 86,
+            "integer": false
+        },
+        "minigun spinup time decreased": {
+            "index": 87,
+            "integer": false
+        },
+        "max pipebombs increased": {
+            "index": 88,
+            "integer": false
+        },
+        "max pipebombs decreased": {
+            "index": 89,
+            "integer": false
+        },
+        "SRifle Charge rate increased": {
+            "index": 90,
+            "integer": false
+        },
+        "SRifle Charge rate decreased": {
+            "index": 91,
+            "integer": false
+        },
+        "Construction rate increased": {
+            "index": 92,
+            "integer": false
+        },
+        "Construction rate decreased": {
+            "index": 93,
+            "integer": false
+        },
+        "Repair rate increased": {
+            "index": 94,
+            "integer": false
+        },
+        "Repair rate decreased": {
+            "index": 95,
+            "integer": false
+        },
+        "Reload time increased": {
+            "index": 96,
+            "integer": false
+        },
+        "Reload time decreased": {
+            "index": 97,
+            "integer": false
+        },
+        "selfdmg on hit for rapidfire": {
+            "index": 98,
+            "integer": false
+        },
+        "Blast radius increased": {
+            "index": 99,
+            "integer": false
+        },
+        "Blast radius decreased": {
+            "index": 100,
+            "integer": false
+        },
+        "Projectile range increased": {
+            "index": 101,
+            "integer": false
+        },
+        "Projectile range decreased": {
+            "index": 102,
+            "integer": false
+        },
+        "Projectile speed increased": {
+            "index": 103,
+            "integer": false
+        },
+        "Projectile speed decreased": {
+            "index": 104,
+            "integer": false
+        },
+        "overheal penalty": {
+            "index": 105,
+            "integer": false
+        },
+        "weapon spread bonus": {
+            "index": 106,
+            "integer": false
+        },
+        "move speed bonus": {
+            "index": 107,
+            "integer": false
+        },
+        "health from packs increased": {
+            "index": 108,
+            "integer": false
+        },
+        "health from packs decreased": {
+            "index": 109,
+            "integer": false
+        },
+        "heal on hit for slowfire": {
+            "index": 110,
+            "integer": false
+        },
+        "selfdmg on hit for slowfire": {
+            "index": 111,
+            "integer": false
+        },
+        "ammo regen": {
+            "index": 112,
+            "integer": false
+        },
+        "metal regen": {
+            "index": 113,
+            "integer": false
+        },
+        "mod mini-crit airborne": {
+            "index": 114,
+            "integer": false
+        },
+        "mod shovel damage boost": {
+            "index": 115,
+            "integer": false
+        },
+        "mod soldier buff type": {
+            "index": 116,
+            "integer": false
+        },
+        "dmg falloff increased": {
+            "index": 117,
+            "integer": false
+        },
+        "dmg falloff decreased": {
+            "index": 118,
+            "integer": false
+        },
+        "sticky detonate mode": {
+            "index": 119,
+            "integer": false
+        },
+        "sticky arm time penalty": {
+            "index": 120,
+            "integer": false
+        },
+        "stickies detonate stickies": {
+            "index": 121,
+            "integer": false
+        },
+        "mod demo buff type": {
+            "index": 122,
+            "integer": false
+        },
+        "speed boost when active": {
+            "index": 123,
+            "integer": false
+        },
+        "mod wrench builds minisentry": {
+            "index": 124,
+            "integer": false
+        },
+        "max health additive penalty": {
+            "index": 125,
+            "integer": false
+        },
+        "sticky arm time bonus": {
+            "index": 126,
+            "integer": false
+        },
+        "sticky air burst mode": {
+            "index": 127,
+            "integer": false
+        },
+        "provide on active": {
+            "index": 128,
+            "integer": false
+        },
+        "health drain": {
+            "index": 129,
+            "integer": false
+        },
+        "medic regen bonus": {
+            "index": 130,
+            "integer": false
+        },
+        "medic regen penalty": {
+            "index": 131,
+            "integer": false
+        },
+        "community description": {
+            "index": 132,
+            "integer": false
+        },
+        "soldier model index": {
+            "index": 133,
+            "integer": true
+        },
+        "attach particle effect": {
+            "index": 134,
+            "integer": false
+        },
+        "rocket jump damage reduction": {
+            "index": 135,
+            "integer": false
+        },
+        "mod sentry killed revenge": {
+            "index": 136,
+            "integer": false
+        },
+        "dmg bonus vs buildings": {
+            "index": 137,
+            "integer": false
+        },
+        "dmg penalty vs players": {
+            "index": 138,
+            "integer": false
+        },
+        "lunchbox adds maxhealth bonus": {
+            "index": 139,
+            "integer": false
+        },
+        "hidden maxhealth non buffed": {
+            "index": 140,
+            "integer": false
+        },
+        "selfmade description": {
+            "index": 141,
+            "integer": false
+        },
+        "set item tint RGB": {
+            "index": 142,
+            "integer": false
+        },
+        "custom employee number": {
+            "index": 143,
+            "integer": true
+        },
+        "lunchbox adds minicrits": {
+            "index": 144,
+            "integer": false
+        },
+        "taunt is highfive": {
+            "index": 145,
+            "integer": false
+        },
+        "damage applies to sappers": {
+            "index": 146,
+            "integer": false
+        },
+        "Wrench index": {
+            "index": 147,
+            "integer": true
+        },
+        "building cost reduction": {
+            "index": 148,
+            "integer": false
+        },
+        "bleeding duration": {
+            "index": 149,
+            "integer": false
+        },
+        "turn to gold": {
+            "index": 150,
+            "integer": false
+        },
+        "DEPRECATED socketed item definition id DEPRECATED ": {
+            "index": 151,
+            "integer": false
+        },
+        "custom texture lo": {
+            "index": 152,
+            "integer": true
+        },
+        "cannot trade": {
+            "index": 153,
+            "integer": false
+        },
+        "disguise on backstab": {
+            "index": 154,
+            "integer": false
+        },
+        "cannot disguise": {
+            "index": 155,
+            "integer": false
+        },
+        "silent killer": {
+            "index": 156,
+            "integer": false
+        },
+        "disguise speed penalty": {
+            "index": 157,
+            "integer": false
+        },
+        "add cloak on kill": {
+            "index": 158,
+            "integer": false
+        },
+        "SET BONUS: cloak blink time penalty": {
+            "index": 159,
+            "integer": false
+        },
+        "SET BONUS: quiet unstealth": {
+            "index": 160,
+            "integer": false
+        },
+        "flame size penalty": {
+            "index": 161,
+            "integer": false
+        },
+        "flame size bonus": {
+            "index": 162,
+            "integer": false
+        },
+        "flame life penalty": {
+            "index": 163,
+            "integer": false
+        },
+        "flame life bonus": {
+            "index": 164,
+            "integer": false
+        },
+        "charged airblast": {
+            "index": 165,
+            "integer": false
+        },
+        "add cloak on hit": {
+            "index": 166,
+            "integer": false
+        },
+        "disguise damage reduction": {
+            "index": 167,
+            "integer": false
+        },
+        "disguise no burn": {
+            "index": 168,
+            "integer": false
+        },
+        "SET BONUS: dmg from sentry reduced": {
+            "index": 169,
+            "integer": false
+        },
+        "airblast cost increased": {
+            "index": 170,
+            "integer": false
+        },
+        "airblast cost decreased": {
+            "index": 171,
+            "integer": false
+        },
+        "purchased": {
+            "index": 172,
+            "integer": false
+        },
+        "flame ammopersec increased": {
+            "index": 173,
+            "integer": false
+        },
+        "flame ammopersec decreased": {
+            "index": 174,
+            "integer": false
+        },
+        "jarate duration": {
+            "index": 175,
+            "integer": false
+        },
+        "SET BONUS: no death from headshots": {
+            "index": 176,
+            "integer": false
+        },
+        "deploy time increased": {
+            "index": 177,
+            "integer": false
+        },
+        "deploy time decreased": {
+            "index": 178,
+            "integer": false
+        },
+        "minicrits become crits": {
+            "index": 179,
+            "integer": false
+        },
+        "heal on kill": {
+            "index": 180,
+            "integer": false
+        },
+        "no self blast dmg": {
+            "index": 181,
+            "integer": false
+        },
+        "slow enemy on hit major": {
+            "index": 182,
+            "integer": false
+        },
+        "aiming movespeed decreased": {
+            "index": 183,
+            "integer": false
+        },
+        "duel loser account id": {
+            "index": 184,
+            "integer": true
+        },
+        "event date": {
+            "index": 185,
+            "integer": true
+        },
+        "gifter account id": {
+            "index": 186,
+            "integer": true
+        },
+        "set supply crate series": {
+            "index": 187,
+            "integer": false
+        },
+        "preserve ubercharge": {
+            "index": 188,
+            "integer": false
+        },
+        "elevate quality": {
+            "index": 189,
+            "integer": false
+        },
+        "active health regen": {
+            "index": 190,
+            "integer": false
+        },
+        "active health degen": {
+            "index": 191,
+            "integer": false
+        },
+        "referenced item id low": {
+            "index": 192,
+            "integer": true
+        },
+        "referenced item id high": {
+            "index": 193,
+            "integer": true
+        },
+        "referenced item def UPDATED": {
+            "index": 194,
+            "integer": true
+        },
+        "always tradable": {
+            "index": 195,
+            "integer": false
+        },
+        "noise maker": {
+            "index": 196,
+            "integer": false
+        },
+        "halloween item": {
+            "index": 197,
+            "integer": false
+        },
+        "collection bits DEPRECATED": {
+            "index": 198,
+            "integer": true
+        },
+        "switch from wep deploy time decreased": {
+            "index": 199,
+            "integer": false
+        },
+        "enables aoe heal": {
+            "index": 200,
+            "integer": false
+        },
+        "gesture speed increase": {
+            "index": 201,
+            "integer": false
+        },
+        "charge time increased": {
+            "index": 202,
+            "integer": false
+        },
+        "drop health pack on kill": {
+            "index": 203,
+            "integer": false
+        },
+        "hit self on miss": {
+            "index": 204,
+            "integer": false
+        },
+        "dmg from ranged reduced": {
+            "index": 205,
+            "integer": false
+        },
+        "dmg from melee increased": {
+            "index": 206,
+            "integer": false
+        },
+        "blast dmg to self increased": {
+            "index": 207,
+            "integer": false
+        },
+        "Set DamageType Ignite": {
+            "index": 208,
+            "integer": false
+        },
+        "minicrit vs burning player": {
+            "index": 209,
+            "integer": false
+        },
+        "tradable after date": {
+            "index": 211,
+            "integer": true
+        },
+        "force level display": {
+            "index": 212,
+            "integer": false
+        },
+        "kill eater": {
+            "index": 214,
+            "integer": true
+        },
+        "apply z velocity on damage": {
+            "index": 215,
+            "integer": false
+        },
+        "apply look velocity on damage": {
+            "index": 216,
+            "integer": false
+        },
+        "sanguisuge": {
+            "index": 217,
+            "integer": false
+        },
+        "mark for death": {
+            "index": 218,
+            "integer": false
+        },
+        "decapitate type": {
+            "index": 219,
+            "integer": false
+        },
+        "restore health on kill": {
+            "index": 220,
+            "integer": false
+        },
+        "mult decloak rate": {
+            "index": 221,
+            "integer": false
+        },
+        "mult sniper charge after bodyshot": {
+            "index": 222,
+            "integer": false
+        },
+        "mult sniper charge after miss": {
+            "index": 223,
+            "integer": false
+        },
+        "dmg bonus while half dead": {
+            "index": 224,
+            "integer": false
+        },
+        "dmg penalty while half alive": {
+            "index": 225,
+            "integer": false
+        },
+        "honorbound": {
+            "index": 226,
+            "integer": false
+        },
+        "custom texture hi": {
+            "index": 227,
+            "integer": true
+        },
+        "makers mark id": {
+            "index": 228,
+            "integer": true
+        },
+        "unique craft index": {
+            "index": 229,
+            "integer": true
+        },
+        "mod medic killed revenge": {
+            "index": 230,
+            "integer": false
+        },
+        "medigun charge is megaheal": {
+            "index": 231,
+            "integer": false
+        },
+        "mod medic killed minicrit boost": {
+            "index": 232,
+            "integer": false
+        },
+        "mod medic healed damage bonus": {
+            "index": 233,
+            "integer": false
+        },
+        "mod medic healed deploy time penalty": {
+            "index": 234,
+            "integer": false
+        },
+        "mod shovel speed boost": {
+            "index": 235,
+            "integer": false
+        },
+        "mod weapon blocks healing": {
+            "index": 236,
+            "integer": false
+        },
+        "mult sniper charge after headshot": {
+            "index": 237,
+            "integer": false
+        },
+        "minigun no spin sounds": {
+            "index": 238,
+            "integer": false
+        },
+        "ubercharge rate bonus for healer": {
+            "index": 239,
+            "integer": false
+        },
+        "reload time decreased while healed": {
+            "index": 240,
+            "integer": false
+        },
+        "reload time increased hidden": {
+            "index": 241,
+            "integer": false
+        },
+        "mod medic killed marked for death": {
+            "index": 242,
+            "integer": false
+        },
+        "mod rage on hit penalty": {
+            "index": 243,
+            "integer": false
+        },
+        "mod rage on hit bonus": {
+            "index": 244,
+            "integer": false
+        },
+        "mod rage damage boost": {
+            "index": 245,
+            "integer": false
+        },
+        "mult charge turn control": {
+            "index": 246,
+            "integer": false
+        },
+        "no charge impact range": {
+            "index": 247,
+            "integer": false
+        },
+        "charge impact damage increased": {
+            "index": 248,
+            "integer": false
+        },
+        "charge recharge rate increased": {
+            "index": 249,
+            "integer": false
+        },
+        "air dash count": {
+            "index": 250,
+            "integer": false
+        },
+        "speed buff ally": {
+            "index": 251,
+            "integer": false
+        },
+        "damage force reduction": {
+            "index": 252,
+            "integer": false
+        },
+        "mult cloak rate": {
+            "index": 253,
+            "integer": false
+        },
+        "airblast pushback scale": {
+            "index": 255,
+            "integer": false
+        },
+        "mult airblast refire time": {
+            "index": 256,
+            "integer": false
+        },
+        "airblast vertical pushback scale": {
+            "index": 257,
+            "integer": false
+        },
+        "ammo becomes health": {
+            "index": 258,
+            "integer": true
+        },
+        "boots falling stomp": {
+            "index": 259,
+            "integer": true
+        },
+        "deflection size multiplier": {
+            "index": 260,
+            "integer": false
+        },
+        "set item tint RGB 2": {
+            "index": 261,
+            "integer": false
+        },
+        "saxxy award category": {
+            "index": 262,
+            "integer": true
+        },
+        "melee bounds multiplier": {
+            "index": 263,
+            "integer": false
+        },
+        "melee range multiplier": {
+            "index": 264,
+            "integer": false
+        },
+        "mod mini-crit airborne deploy": {
+            "index": 265,
+            "integer": false
+        },
+        "projectile penetration": {
+            "index": 266,
+            "integer": false
+        },
+        "mod crit while airborne": {
+            "index": 267,
+            "integer": false
+        },
+        "mult sniper charge penalty DISPLAY ONLY": {
+            "index": 268,
+            "integer": false
+        },
+        "mod see enemy health": {
+            "index": 269,
+            "integer": false
+        },
+        "powerup max charges": {
+            "index": 270,
+            "integer": false
+        },
+        "powerup charges": {
+            "index": 271,
+            "integer": false
+        },
+        "powerup duration": {
+            "index": 272,
+            "integer": false
+        },
+        "critboost": {
+            "index": 273,
+            "integer": false
+        },
+        "ubercharge": {
+            "index": 274,
+            "integer": false
+        },
+        "cancel falling damage": {
+            "index": 275,
+            "integer": true
+        },
+        "bidirectional teleport": {
+            "index": 276,
+            "integer": false
+        },
+        "multiple sentries": {
+            "index": 277,
+            "integer": true
+        },
+        "effect bar recharge rate increased": {
+            "index": 278,
+            "integer": false
+        },
+        "maxammo grenades1 increased": {
+            "index": 279,
+            "integer": false
+        },
+        "override projectile type": {
+            "index": 280,
+            "integer": true
+        },
+        "energy weapon no ammo": {
+            "index": 281,
+            "integer": true
+        },
+        "energy weapon charged shot": {
+            "index": 282,
+            "integer": true
+        },
+        "energy weapon penetration": {
+            "index": 283,
+            "integer": true
+        },
+        "energy weapon no hurt building": {
+            "index": 284,
+            "integer": true
+        },
+        "energy weapon no deflect": {
+            "index": 285,
+            "integer": true
+        },
+        "engy building health bonus": {
+            "index": 286,
+            "integer": false
+        },
+        "engy sentry damage bonus": {
+            "index": 287,
+            "integer": false
+        },
+        "no crit boost": {
+            "index": 288,
+            "integer": true
+        },
+        "centerfire projectile": {
+            "index": 289,
+            "integer": true
+        },
+        "kill eater score type": {
+            "index": 292,
+            "integer": false
+        },
+        "kill eater score type 2": {
+            "index": 293,
+            "integer": false
+        },
+        "kill eater 2": {
+            "index": 294,
+            "integer": true
+        },
+        "has pipboy build interface": {
+            "index": 295,
+            "integer": true
+        },
+        "sapper kills collect crits": {
+            "index": 296,
+            "integer": true
+        },
+        "sniper only fire zoomed": {
+            "index": 297,
+            "integer": false
+        },
+        "mod ammo per shot": {
+            "index": 298,
+            "integer": false
+        },
+        "add onhit addammo": {
+            "index": 299,
+            "integer": false
+        },
+        "electrical airblast DISPLAY ONLY": {
+            "index": 300,
+            "integer": false
+        },
+        "mod use metal ammo type": {
+            "index": 301,
+            "integer": true
+        },
+        "expiration date": {
+            "index": 302,
+            "integer": true
+        },
+        "mod max primary clip override": {
+            "index": 303,
+            "integer": true
+        },
+        "sniper full charge damage bonus": {
+            "index": 304,
+            "integer": false
+        },
+        "sniper fires tracer": {
+            "index": 305,
+            "integer": false
+        },
+        "sniper no headshot without full charge": {
+            "index": 306,
+            "integer": true
+        },
+        "mod no reload DISPLAY ONLY": {
+            "index": 307,
+            "integer": true
+        },
+        "sniper penetrate players when charged": {
+            "index": 308,
+            "integer": false
+        },
+        "crit kill will gib": {
+            "index": 309,
+            "integer": false
+        },
+        "recall": {
+            "index": 310,
+            "integer": false
+        },
+        "unlimited quantity": {
+            "index": 311,
+            "integer": false
+        },
+        "disable weapon hiding for animations": {
+            "index": 312,
+            "integer": true
+        },
+        "applies snare effect": {
+            "index": 313,
+            "integer": false
+        },
+        "uber duration bonus": {
+            "index": 314,
+            "integer": false
+        },
+        "refill_ammo": {
+            "index": 315,
+            "integer": false
+        },
+        "store sort override DEPRECATED": {
+            "index": 317,
+            "integer": true
+        },
+        "faster reload rate": {
+            "index": 318,
+            "integer": false
+        },
+        "increase buff duration": {
+            "index": 319,
+            "integer": false
+        },
+        "robo sapper": {
+            "index": 320,
+            "integer": false
+        },
+        "build rate bonus": {
+            "index": 321,
+            "integer": false
+        },
+        "taunt is press and hold": {
+            "index": 322,
+            "integer": true
+        },
+        "attack projectiles": {
+            "index": 323,
+            "integer": false
+        },
+        "accuracy scales damage": {
+            "index": 324,
+            "integer": false
+        },
+        "currency bonus": {
+            "index": 325,
+            "integer": false
+        },
+        "increased jump height": {
+            "index": 326,
+            "integer": false
+        },
+        "building instant upgrade": {
+            "index": 327,
+            "integer": false
+        },
+        "disable fancy class select anim": {
+            "index": 328,
+            "integer": false
+        },
+        "airblast vulnerability multiplier": {
+            "index": 329,
+            "integer": false
+        },
+        "override footstep sound set": {
+            "index": 330,
+            "integer": false
+        },
+        "spawn with physics toy": {
+            "index": 331,
+            "integer": false
+        },
+        "fish damage override": {
+            "index": 332,
+            "integer": false
+        },
+        "SET BONUS: special dsp": {
+            "index": 333,
+            "integer": false
+        },
+        "bombinomicon effect on death": {
+            "index": 334,
+            "integer": false
+        },
+        "clip size bonus upgrade": {
+            "index": 335,
+            "integer": false
+        },
+        "hide enemy health": {
+            "index": 336,
+            "integer": false
+        },
+        "subtract victim medigun charge on hit": {
+            "index": 337,
+            "integer": false
+        },
+        "subtract victim cloak on hit": {
+            "index": 338,
+            "integer": false
+        },
+        "reveal cloaked victim on hit": {
+            "index": 339,
+            "integer": false
+        },
+        "reveal disguised victim on hit": {
+            "index": 340,
+            "integer": false
+        },
+        "jarate backstabber": {
+            "index": 341,
+            "integer": false
+        },
+        "engy sentry fire rate increased": {
+            "index": 343,
+            "integer": false
+        },
+        "engy sentry radius increased": {
+            "index": 344,
+            "integer": false
+        },
+        "engy dispenser radius increased": {
+            "index": 345,
+            "integer": false
+        },
+        "mod bat launches ornaments": {
+            "index": 346,
+            "integer": false
+        },
+        "freeze backstab victim": {
+            "index": 347,
+            "integer": false
+        },
+        "fire rate penalty HIDDEN": {
+            "index": 348,
+            "integer": false
+        },
+        "energy weapon no drain": {
+            "index": 349,
+            "integer": false
+        },
+        "ragdolls become ash": {
+            "index": 350,
+            "integer": false
+        },
+        "engy disposable sentries": {
+            "index": 351,
+            "integer": false
+        },
+        "alt fire teleport to spawn": {
+            "index": 352,
+            "integer": false
+        },
+        "cannot pick up buildings": {
+            "index": 353,
+            "integer": false
+        },
+        "stun enemies wielding same weapon": {
+            "index": 354,
+            "integer": false
+        },
+        "mod ammo per shot missed DISPLAY ONLY": {
+            "index": 355,
+            "integer": false
+        },
+        "airblast disabled": {
+            "index": 356,
+            "integer": false
+        },
+        "increase buff duration HIDDEN": {
+            "index": 357,
+            "integer": false
+        },
+        "crit forces victim to laugh": {
+            "index": 358,
+            "integer": false
+        },
+        "melts in fire": {
+            "index": 359,
+            "integer": false
+        },
+        "damage all connected": {
+            "index": 360,
+            "integer": false
+        },
+        "become fireproof on hit by fire": {
+            "index": 361,
+            "integer": false
+        },
+        "crit from behind": {
+            "index": 362,
+            "integer": false
+        },
+        "crit does no damage": {
+            "index": 363,
+            "integer": false
+        },
+        "add jingle to footsteps": {
+            "index": 364,
+            "integer": false
+        },
+        "set icicle knife mode": {
+            "index": 365,
+            "integer": false
+        },
+        "mod stun waist high airborne": {
+            "index": 366,
+            "integer": false
+        },
+        "extinguish earns revenge crits": {
+            "index": 367,
+            "integer": false
+        },
+        "burn damage earns rage": {
+            "index": 368,
+            "integer": false
+        },
+        "tickle enemies wielding same weapon": {
+            "index": 369,
+            "integer": false
+        },
+        "attach particle effect static": {
+            "index": 370,
+            "integer": false
+        },
+        "cosmetic taunt sound": {
+            "index": 371,
+            "integer": false
+        },
+        "accepted wedding ring account id 1": {
+            "index": 372,
+            "integer": true
+        },
+        "accepted wedding ring account id 2": {
+            "index": 373,
+            "integer": true
+        },
+        "tool escrow until date": {
+            "index": 374,
+            "integer": true
+        },
+        "generate rage on damage": {
+            "index": 375,
+            "integer": false
+        },
+        "aiming no flinch": {
+            "index": 376,
+            "integer": false
+        },
+        "aiming knockback resistance": {
+            "index": 377,
+            "integer": false
+        },
+        "sniper aiming movespeed decreased": {
+            "index": 378,
+            "integer": false
+        },
+        "kill eater user 1": {
+            "index": 379,
+            "integer": true
+        },
+        "kill eater user score type 1": {
+            "index": 380,
+            "integer": false
+        },
+        "kill eater user 2": {
+            "index": 381,
+            "integer": true
+        },
+        "kill eater user score type 2": {
+            "index": 382,
+            "integer": false
+        },
+        "kill eater user 3": {
+            "index": 383,
+            "integer": true
+        },
+        "kill eater user score type 3": {
+            "index": 384,
+            "integer": false
+        },
+        "strange part new counter ID": {
+            "index": 385,
+            "integer": false
+        },
+        "mvm completed challenges bitmask": {
+            "index": 386,
+            "integer": true
+        },
+        "rage on kill": {
+            "index": 387,
+            "integer": false
+        },
+        "kill eater kill type": {
+            "index": 388,
+            "integer": false
+        },
+        "shot penetrate all players": {
+            "index": 389,
+            "integer": false
+        },
+        "headshot damage increase": {
+            "index": 390,
+            "integer": false
+        },
+        "SET BONUS: mystery solving time decrease": {
+            "index": 391,
+            "integer": false
+        },
+        "damage penalty on bodyshot": {
+            "index": 392,
+            "integer": false
+        },
+        "sniper rage DISPLAY ONLY": {
+            "index": 393,
+            "integer": false
+        },
+        "fire rate bonus HIDDEN": {
+            "index": 394,
+            "integer": false
+        },
+        "explosive sniper shot": {
+            "index": 395,
+            "integer": false
+        },
+        "melee attack rate bonus": {
+            "index": 396,
+            "integer": false
+        },
+        "projectile penetration heavy": {
+            "index": 397,
+            "integer": false
+        },
+        "rage on assists": {
+            "index": 398,
+            "integer": false
+        },
+        "armor piercing": {
+            "index": 399,
+            "integer": false
+        },
+        "cannot pick up intelligence": {
+            "index": 400,
+            "integer": false
+        },
+        "SET BONUS: chance of hunger decrease": {
+            "index": 401,
+            "integer": false
+        },
+        "cannot be backstabbed": {
+            "index": 402,
+            "integer": false
+        },
+        "squad surplus claimer id DEPRECATED": {
+            "index": 403,
+            "integer": true
+        },
+        "share consumable with patient": {
+            "index": 404,
+            "integer": false
+        },
+        "airblast vertical vulnerability multiplier": {
+            "index": 405,
+            "integer": false
+        },
+        "vision opt in flags": {
+            "index": 406,
+            "integer": false
+        },
+        "crit vs disguised players": {
+            "index": 407,
+            "integer": false
+        },
+        "crit vs non burning players": {
+            "index": 408,
+            "integer": false
+        },
+        "kill forces attacker to laugh": {
+            "index": 409,
+            "integer": false
+        },
+        "damage bonus while disguised": {
+            "index": 410,
+            "integer": false
+        },
+        "projectile spread angle penalty": {
+            "index": 411,
+            "integer": false
+        },
+        "dmg taken increased": {
+            "index": 412,
+            "integer": false
+        },
+        "auto fires full clip": {
+            "index": 413,
+            "integer": false
+        },
+        "self mark for death": {
+            "index": 414,
+            "integer": false
+        },
+        "counts as assister is some kind of pet this update is going to be awesome": {
+            "index": 415,
+            "integer": true
+        },
+        "mod flaregun fires pellets with knockback": {
+            "index": 416,
+            "integer": false
+        },
+        "can overload": {
+            "index": 417,
+            "integer": false
+        },
+        "boost on damage": {
+            "index": 418,
+            "integer": false
+        },
+        "hype resets on jump": {
+            "index": 419,
+            "integer": false
+        },
+        "pyro year number": {
+            "index": 420,
+            "integer": true
+        },
+        "no primary ammo from dispensers while active": {
+            "index": 421,
+            "integer": true
+        },
+        "pyrovision only DISPLAY ONLY": {
+            "index": 422,
+            "integer": true
+        },
+        "clip size penalty HIDDEN": {
+            "index": 424,
+            "integer": false
+        },
+        "sapper damage bonus": {
+            "index": 425,
+            "integer": false
+        },
+        "sapper damage penalty": {
+            "index": 426,
+            "integer": false
+        },
+        "sapper damage leaches health": {
+            "index": 427,
+            "integer": false
+        },
+        "sapper health bonus": {
+            "index": 428,
+            "integer": false
+        },
+        "sapper health penalty": {
+            "index": 429,
+            "integer": false
+        },
+        "ring of fire while aiming": {
+            "index": 430,
+            "integer": false
+        },
+        "uses ammo while aiming": {
+            "index": 431,
+            "integer": false
+        },
+        "sapper degenerates buildings": {
+            "index": 433,
+            "integer": false
+        },
+        "sapper damage penalty hidden": {
+            "index": 434,
+            "integer": false
+        },
+        "cleaver description": {
+            "index": 435,
+            "integer": false
+        },
+        "ragdolls plasma effect": {
+            "index": 436,
+            "integer": false
+        },
+        "crit vs stunned players": {
+            "index": 437,
+            "integer": false
+        },
+        "crit vs wet players": {
+            "index": 438,
+            "integer": false
+        },
+        "override item level desc string": {
+            "index": 439,
+            "integer": true
+        },
+        "clip size upgrade atomic": {
+            "index": 440,
+            "integer": false
+        },
+        "auto fires full clip all at once": {
+            "index": 441,
+            "integer": false
+        },
+        "major move speed bonus": {
+            "index": 442,
+            "integer": false
+        },
+        "major increased jump height": {
+            "index": 443,
+            "integer": false
+        },
+        "head scale": {
+            "index": 444,
+            "integer": false
+        },
+        "pyrovision opt in DISPLAY ONLY": {
+            "index": 445,
+            "integer": false
+        },
+        "halloweenvision opt in DISPLAY ONLY": {
+            "index": 446,
+            "integer": false
+        },
+        "halloweenvision filter DISPLAY ONLY": {
+            "index": 447,
+            "integer": false
+        },
+        "player skin override": {
+            "index": 448,
+            "integer": false
+        },
+        "never craftable": {
+            "index": 449,
+            "integer": false
+        },
+        "zombiezombiezombiezombie": {
+            "index": 450,
+            "integer": false
+        },
+        "sapper voice pak": {
+            "index": 451,
+            "integer": false
+        },
+        "sapper voice pak idle wait": {
+            "index": 452,
+            "integer": false
+        },
+        "merasmus hat level display ONLY": {
+            "index": 453,
+            "integer": true
+        },
+        "strange restriction type 1": {
+            "index": 454,
+            "integer": true
+        },
+        "strange restriction value 1": {
+            "index": 455,
+            "integer": true
+        },
+        "strange restriction type 2": {
+            "index": 456,
+            "integer": true
+        },
+        "strange restriction value 2": {
+            "index": 457,
+            "integer": true
+        },
+        "strange restriction user type 1": {
+            "index": 458,
+            "integer": true
+        },
+        "strange restriction user value 1": {
+            "index": 459,
+            "integer": true
+        },
+        "strange restriction user type 2": {
+            "index": 460,
+            "integer": true
+        },
+        "strange restriction user value 2": {
+            "index": 461,
+            "integer": true
+        },
+        "strange restriction user type 3": {
+            "index": 462,
+            "integer": true
+        },
+        "strange restriction user value 3": {
+            "index": 463,
+            "integer": true
+        },
+        "engineer sentry build rate multiplier": {
+            "index": 464,
+            "integer": false
+        },
+        "engineer teleporter build rate multiplier": {
+            "index": 465,
+            "integer": false
+        },
+        "grenade launcher mortar mode": {
+            "index": 466,
+            "integer": false
+        },
+        "grenade not explode on impact": {
+            "index": 467,
+            "integer": false
+        },
+        "strange score selector": {
+            "index": 468,
+            "integer": true
+        },
+        "engineer building teleporting pickup": {
+            "index": 469,
+            "integer": false
+        },
+        "grenade damage reduction on world contact": {
+            "index": 470,
+            "integer": false
+        },
+        "engineer rage on dmg": {
+            "index": 471,
+            "integer": false
+        },
+        "mark for death on building pickup": {
+            "index": 472,
+            "integer": false
+        },
+        "medigun charge is resists": {
+            "index": 473,
+            "integer": false
+        },
+        "arrow heals buildings": {
+            "index": 474,
+            "integer": false
+        },
+        "Projectile speed increased HIDDEN": {
+            "index": 475,
+            "integer": false
+        },
+        "damage bonus HIDDEN": {
+            "index": 476,
+            "integer": false
+        },
+        "cannonball push back": {
+            "index": 477,
+            "integer": false
+        },
+        "rage giving scale": {
+            "index": 478,
+            "integer": false
+        },
+        "overheal fill rate reduced": {
+            "index": 479,
+            "integer": false
+        },
+        "canteen specialist": {
+            "index": 481,
+            "integer": false
+        },
+        "overheal expert": {
+            "index": 482,
+            "integer": false
+        },
+        "mad milk syringes": {
+            "index": 484,
+            "integer": false
+        },
+        "rocket specialist": {
+            "index": 488,
+            "integer": false
+        },
+        "SET BONUS: move speed set bonus": {
+            "index": 489,
+            "integer": false
+        },
+        "SET BONUS: health regen set bonus": {
+            "index": 490,
+            "integer": false
+        },
+        "SET BONUS: dmg taken from crit reduced set bonus": {
+            "index": 491,
+            "integer": false
+        },
+        "SET BONUS: dmg taken from fire reduced set bonus": {
+            "index": 492,
+            "integer": false
+        },
+        "healing mastery": {
+            "index": 493,
+            "integer": false
+        },
+        "kill eater 3": {
+            "index": 494,
+            "integer": true
+        },
+        "kill eater score type 3": {
+            "index": 495,
+            "integer": false
+        },
+        "strange restriction type 3": {
+            "index": 496,
+            "integer": true
+        },
+        "strange restriction value 3": {
+            "index": 497,
+            "integer": true
+        },
+        "bot custom jump particle": {
+            "index": 498,
+            "integer": true
+        },
+        "generate rage on heal": {
+            "index": 499,
+            "integer": false
+        },
+        "custom name attr": {
+            "index": 500,
+            "integer": false
+        },
+        "custom desc attr": {
+            "index": 501,
+            "integer": false
+        },
+        "medigun bullet resist passive": {
+            "index": 503,
+            "integer": false
+        },
+        "medigun blast resist passive": {
+            "index": 504,
+            "integer": false
+        },
+        "medigun fire resist passive": {
+            "index": 505,
+            "integer": false
+        },
+        "medigun bullet resist deployed": {
+            "index": 506,
+            "integer": false
+        },
+        "medigun blast resist deployed": {
+            "index": 507,
+            "integer": false
+        },
+        "medigun fire resist deployed": {
+            "index": 508,
+            "integer": false
+        },
+        "medigun crit bullet percent bar deplete": {
+            "index": 509,
+            "integer": false
+        },
+        "medigun crit blast percent bar deplete": {
+            "index": 510,
+            "integer": false
+        },
+        "medigun crit fire percent bar deplete": {
+            "index": 511,
+            "integer": false
+        },
+        "throwable fire speed": {
+            "index": 512,
+            "integer": false
+        },
+        "throwable damage": {
+            "index": 513,
+            "integer": false
+        },
+        "throwable healing": {
+            "index": 514,
+            "integer": false
+        },
+        "throwable particle trail only": {
+            "index": 515,
+            "integer": false
+        },
+        "SET BONUS: dmg taken from bullets increased": {
+            "index": 516,
+            "integer": false
+        },
+        "SET BONUS: max health additive bonus": {
+            "index": 517,
+            "integer": false
+        },
+        "scattergun knockback mult": {
+            "index": 518,
+            "integer": false
+        },
+        "particle effect vertical offset": {
+            "index": 519,
+            "integer": false
+        },
+        "particle effect use head origin": {
+            "index": 520,
+            "integer": true
+        },
+        "use large smoke explosion": {
+            "index": 521,
+            "integer": true
+        },
+        "damage causes airblast": {
+            "index": 522,
+            "integer": true
+        },
+        "increased jump height from weapon": {
+            "index": 524,
+            "integer": false
+        },
+        "damage force increase": {
+            "index": 525,
+            "integer": false
+        },
+        "healing received bonus": {
+            "index": 526,
+            "integer": false
+        },
+        "afterburn immunity": {
+            "index": 527,
+            "integer": false
+        },
+        "decoded by itemdefindex": {
+            "index": 528,
+            "integer": false
+        },
+        "hype decays over time": {
+            "index": 532,
+            "integer": false
+        },
+        "SET BONUS: custom taunt particle attr": {
+            "index": 533,
+            "integer": true
+        },
+        "airblast vulnerability multiplier hidden": {
+            "index": 534,
+            "integer": false
+        },
+        "damage force increase hidden": {
+            "index": 535,
+            "integer": false
+        },
+        "damage force increase text": {
+            "index": 536,
+            "integer": false
+        },
+        "SET BONUS: calling card on kill": {
+            "index": 537,
+            "integer": true
+        },
+        "set throwable type": {
+            "index": 539,
+            "integer": true
+        },
+        "add head on hit": {
+            "index": 540,
+            "integer": false
+        },
+        "item style override": {
+            "index": 542,
+            "integer": false
+        },
+        "paint decal enum": {
+            "index": 543,
+            "integer": false
+        },
+        "show paint description": {
+            "index": 544,
+            "integer": false
+        },
+        "bot medic uber health threshold": {
+            "index": 545,
+            "integer": true
+        },
+        "bot medic uber deploy delay duration": {
+            "index": 546,
+            "integer": false
+        },
+        "single wep deploy time decreased": {
+            "index": 547,
+            "integer": false
+        },
+        "halloween reload time decreased": {
+            "index": 548,
+            "integer": false
+        },
+        "halloween fire rate bonus": {
+            "index": 549,
+            "integer": false
+        },
+        "halloween increased jump height": {
+            "index": 550,
+            "integer": false
+        },
+        "special taunt": {
+            "index": 551,
+            "integer": true
+        },
+        "revive": {
+            "index": 554,
+            "integer": false
+        },
+        "taunt attack name": {
+            "index": 556,
+            "integer": false
+        },
+        "taunt attack time": {
+            "index": 557,
+            "integer": false
+        },
+        "taunt force move forward": {
+            "index": 600,
+            "integer": false
+        },
+        "taunt mimic": {
+            "index": 602,
+            "integer": true
+        },
+        "taunt success sound": {
+            "index": 606,
+            "integer": false
+        },
+        "taunt success sound offset": {
+            "index": 607,
+            "integer": false
+        },
+        "taunt success sound loop": {
+            "index": 608,
+            "integer": false
+        },
+        "taunt success sound loop offset": {
+            "index": 609,
+            "integer": false
+        },
+        "increased air control": {
+            "index": 610,
+            "integer": false
+        },
+        "rocket launch impulse": {
+            "index": 612,
+            "integer": false
+        },
+        "minicritboost on kill": {
+            "index": 613,
+            "integer": false
+        },
+        "no metal from dispensers while active": {
+            "index": 614,
+            "integer": true
+        },
+        "projectile entity name": {
+            "index": 615,
+            "integer": false
+        },
+        "is throwable primable": {
+            "index": 616,
+            "integer": false
+        },
+        "throwable detonation time": {
+            "index": 617,
+            "integer": false
+        },
+        "throwable recharge time": {
+            "index": 618,
+            "integer": false
+        },
+        "closerange backattack minicrits": {
+            "index": 619,
+            "integer": false
+        },
+        "torso scale": {
+            "index": 620,
+            "integer": false
+        },
+        "rocketjump attackrate bonus": {
+            "index": 621,
+            "integer": false
+        },
+        "is throwable chargeable": {
+            "index": 622,
+            "integer": false
+        },
+        "back headshot": {
+            "index": 630,
+            "integer": false
+        },
+        "rj air bombardment": {
+            "index": 632,
+            "integer": false
+        },
+        "projectile particle name": {
+            "index": 633,
+            "integer": false
+        },
+        "air jump on attack": {
+            "index": 634,
+            "integer": false
+        },
+        "sniper crit no scope": {
+            "index": 636,
+            "integer": false
+        },
+        "sniper independent zoom DISPLAY ONLY": {
+            "index": 637,
+            "integer": false
+        },
+        "axtinguisher properties": {
+            "index": 638,
+            "integer": false
+        },
+        "full charge turn control": {
+            "index": 639,
+            "integer": false
+        },
+        "parachute attribute": {
+            "index": 640,
+            "integer": false
+        },
+        "taunt force weapon slot": {
+            "index": 641,
+            "integer": false
+        },
+        "mini rockets": {
+            "index": 642,
+            "integer": false
+        },
+        "rocket jump damage reduction HIDDEN": {
+            "index": 643,
+            "integer": false
+        },
+        "clipsize increase on kill": {
+            "index": 644,
+            "integer": false
+        },
+        "breadgloves properties": {
+            "index": 645,
+            "integer": false
+        },
+        "taunt turn speed": {
+            "index": 646,
+            "integer": false
+        },
+        "sniper fires tracer HIDDEN": {
+            "index": 647,
+            "integer": false
+        },
+        "fire rate bonus with reduced health": {
+            "index": 651,
+            "integer": false
+        },
+        "tag__summer2014": {
+            "index": 661,
+            "integer": true
+        },
+        "crate generation code": {
+            "index": 662,
+            "integer": false
+        },
+        "stickybomb fizzle time": {
+            "index": 669,
+            "integer": false
+        },
+        "stickybomb charge rate": {
+            "index": 670,
+            "integer": false
+        },
+        "grenade no bounce": {
+            "index": 671,
+            "integer": false
+        },
+        "class select override vcd": {
+            "index": 674,
+            "integer": false
+        },
+        "custom projectile model": {
+            "index": 675,
+            "integer": false
+        },
+        "lose demo charge on damage when charging": {
+            "index": 676,
+            "integer": false
+        },
+        "grenade no spin": {
+            "index": 681,
+            "integer": false
+        },
+        "grenade detonation damage penalty": {
+            "index": 684,
+            "integer": false
+        },
+        "taunt turn acceleration time": {
+            "index": 687,
+            "integer": false
+        },
+        "taunt move acceleration time": {
+            "index": 688,
+            "integer": false
+        },
+        "taunt move speed": {
+            "index": 689,
+            "integer": false
+        },
+        "shuffle crate item def min": {
+            "index": 690,
+            "integer": true
+        },
+        "shuffle crate item def max": {
+            "index": 691,
+            "integer": true
+        },
+        "limited quantity item": {
+            "index": 692,
+            "integer": true
+        },
+        "SET BONUS: alien isolation xeno bonus pos": {
+            "index": 693,
+            "integer": true
+        },
+        "SET BONUS: alien isolation xeno bonus neg": {
+            "index": 694,
+            "integer": true
+        },
+        "SET BONUS: alien isolation merc bonus pos": {
+            "index": 695,
+            "integer": true
+        },
+        "SET BONUS: alien isolation merc bonus neg": {
+            "index": 696,
+            "integer": true
+        },
+        "disable weapon switch": {
+            "index": 698,
+            "integer": true
+        },
+        "hand scale": {
+            "index": 699,
+            "integer": false
+        },
+        "display duck leaderboard": {
+            "index": 700,
+            "integer": true
+        },
+        "duck rating": {
+            "index": 701,
+            "integer": true
+        },
+        "duck badge level": {
+            "index": 702,
+            "integer": true
+        },
+        "tag__eotlearlysupport": {
+            "index": 703,
+            "integer": true
+        },
+        "unlimited quantity hidden": {
+            "index": 704,
+            "integer": false
+        },
+        "duckstreaks active": {
+            "index": 705,
+            "integer": true
+        },
+        "panic_attack": {
+            "index": 708,
+            "integer": false
+        },
+        "panic_attack_negative": {
+            "index": 709,
+            "integer": false
+        },
+        "auto fires full clip penalty": {
+            "index": 710,
+            "integer": false
+        },
+        "auto fires when full": {
+            "index": 711,
+            "integer": false
+        },
+        "force weapon switch": {
+            "index": 712,
+            "integer": false
+        },
+        "weapon_uses_stattrak_module": {
+            "index": 719,
+            "integer": false
+        },
+        "is_operation_pass": {
+            "index": 723,
+            "integer": false
+        },
+        "weapon_stattrak_module_scale": {
+            "index": 724,
+            "integer": false
+        },
+        "set_item_texture_wear": {
+            "index": 725,
+            "integer": false
+        },
+        "cloak_consume_on_feign_death_activate": {
+            "index": 726,
+            "integer": false
+        },
+        "stickybomb_charge_damage_increase": {
+            "index": 727,
+            "integer": false
+        },
+        "NoCloakWhenCloaked": {
+            "index": 728,
+            "integer": false
+        },
+        "ReducedCloakFromAmmo": {
+            "index": 729,
+            "integer": false
+        },
+        "elevate to unusual if applicable": {
+            "index": 730,
+            "integer": false
+        },
+        "weapon_allow_inspect": {
+            "index": 731,
+            "integer": false
+        },
+        "metal_pickup_decreased": {
+            "index": 732,
+            "integer": false
+        },
+        "lose hype on take damage": {
+            "index": 733,
+            "integer": false
+        },
+        "healing received penalty": {
+            "index": 734,
+            "integer": false
+        },
+        "crit_vs_burning_FLARES_DISPLAY_ONLY": {
+            "index": 735,
+            "integer": false
+        },
+        "speed_boost_on_kill": {
+            "index": 736,
+            "integer": false
+        },
+        "speed_boost_on_hit": {
+            "index": 737,
+            "integer": false
+        },
+        "spunup_damage_resistance": {
+            "index": 738,
+            "integer": false
+        },
+        "ubercharge overheal rate penalty": {
+            "index": 739,
+            "integer": false
+        },
+        "reduced_healing_from_medics": {
+            "index": 740,
+            "integer": false
+        },
+        "health on radius damage": {
+            "index": 741,
+            "integer": false
+        },
+        "style changes on strange level": {
+            "index": 742,
+            "integer": true
+        },
+        "cannot restore": {
+            "index": 743,
+            "integer": true
+        },
+        "hide crate series number": {
+            "index": 744,
+            "integer": true
+        },
+        "has team color paintkit": {
+            "index": 745,
+            "integer": true
+        },
+        "cosmetic_allow_inspect": {
+            "index": 746,
+            "integer": false
+        },
+        "hat only unusual effect": {
+            "index": 747,
+            "integer": false
+        },
+        "items traded in for": {
+            "index": 748,
+            "integer": true
+        },
+        "texture_wear_default": {
+            "index": 749,
+            "integer": false
+        },
+        "taunt only unusual effect": {
+            "index": 750,
+            "integer": true
+        },
+        "deactive date": {
+            "index": 751,
+            "integer": true
+        },
+        "is giger counter": {
+            "index": 752,
+            "integer": false
+        },
+        "hide_strange_prefix": {
+            "index": 753,
+            "integer": false
+        },
+        "always_transmit_so": {
+            "index": 754,
+            "integer": false
+        },
+        "allow_halloween_offering": {
+            "index": 760,
+            "integer": false
+        },
+        "cannot_transmute": {
+            "index": 762,
+            "integer": false
+        },
+        "single wep holster time increased": {
+            "index": 772,
+            "integer": false
+        },
+        "single wep deploy time increased": {
+            "index": 773,
+            "integer": false
+        },
+        "charge time decreased": {
+            "index": 774,
+            "integer": false
+        },
+        "dmg penalty vs buildings": {
+            "index": 775,
+            "integer": false
+        },
+        "charge impact damage decreased": {
+            "index": 776,
+            "integer": false
+        },
+        "non economy": {
+            "index": 777,
+            "integer": false
+        },
+        "charge meter on hit": {
+            "index": 778,
+            "integer": false
+        },
+        "minicrit_boost_when_charged": {
+            "index": 779,
+            "integer": false
+        },
+        "minicrit_boost_charge_rate": {
+            "index": 780,
+            "integer": false
+        },
+        "is_a_sword": {
+            "index": 781,
+            "integer": false
+        },
+        "ammo gives charge": {
+            "index": 782,
+            "integer": true
+        },
+        "extinguish restores health": {
+            "index": 783,
+            "integer": false
+        },
+        "extinguish reduces cooldown": {
+            "index": 784,
+            "integer": false
+        },
+        "cannot giftwrap": {
+            "index": 785,
+            "integer": true
+        },
+        "tool needs giftwrap": {
+            "index": 786,
+            "integer": true
+        },
+        "fuse bonus": {
+            "index": 787,
+            "integer": false
+        },
+        "move speed bonus shield required": {
+            "index": 788,
+            "integer": false
+        },
+        "damage bonus bullet vs sentry target": {
+            "index": 789,
+            "integer": false
+        },
+        "mod teleporter cost": {
+            "index": 790,
+            "integer": false
+        },
+        "damage blast push": {
+            "index": 791,
+            "integer": false
+        },
+        "move speed bonus resource level": {
+            "index": 792,
+            "integer": false
+        },
+        "hype on damage": {
+            "index": 793,
+            "integer": false
+        },
+        "dmg taken from fire reduced on active": {
+            "index": 794,
+            "integer": false
+        },
+        "damage bonus vs burning": {
+            "index": 795,
+            "integer": false
+        },
+        "min_viewmodel_offset": {
+            "index": 796,
+            "integer": false
+        },
+        "dmg pierces resists absorbs": {
+            "index": 797,
+            "integer": false
+        },
+        "energy buff dmg taken multiplier": {
+            "index": 798,
+            "integer": false
+        },
+        "lose revenge crits on death DISPLAY ONLY": {
+            "index": 799,
+            "integer": false
+        },
+        "patient overheal penalty": {
+            "index": 800,
+            "integer": false
+        },
+        "item_meter_charge_rate": {
+            "index": 801,
+            "integer": false
+        },
+        "mult_spread_scale_first_shot": {
+            "index": 804,
+            "integer": false
+        },
+        "unusualifier_attribute_template_name": {
+            "index": 805,
+            "integer": false
+        },
+        "tool_target_item_icon_offset": {
+            "index": 806,
+            "integer": false
+        },
+        "add_head_on_kill": {
+            "index": 807,
+            "integer": false
+        },
+        "mult_spread_scales_consecutive": {
+            "index": 808,
+            "integer": false
+        },
+        "fixed_shot_pattern": {
+            "index": 809,
+            "integer": true
+        },
+        "mod_cloak_no_regen_from_items": {
+            "index": 810,
+            "integer": false
+        },
+        "ubercharge_preserved_on_spawn_max": {
+            "index": 811,
+            "integer": false
+        },
+        "mod_air_control_blast_jump": {
+            "index": 812,
+            "integer": false
+        },
+        "spunup_push_force_immunity": {
+            "index": 813,
+            "integer": false
+        },
+        "mod_mark_attacker_for_death": {
+            "index": 814,
+            "integer": false
+        },
+        "use_model_cache_icon": {
+            "index": 815,
+            "integer": true
+        },
+        "mod_disguise_consumes_cloak": {
+            "index": 816,
+            "integer": true
+        },
+        "inspect_viewmodel_offset": {
+            "index": 817,
+            "integer": false
+        },
+        "is_passive_weapon": {
+            "index": 818,
+            "integer": false
+        },
+        "no_jump": {
+            "index": 819,
+            "integer": false
+        },
+        "no_duck": {
+            "index": 820,
+            "integer": false
+        },
+        "no_attack": {
+            "index": 821,
+            "integer": false
+        },
+        "airblast_destroy_projectile": {
+            "index": 822,
+            "integer": false
+        },
+        "airblast_pushback_disabled": {
+            "index": 823,
+            "integer": false
+        },
+        "airblast_pushback_no_stun": {
+            "index": 824,
+            "integer": false
+        },
+        "airblast_pushback_no_viewpunch": {
+            "index": 825,
+            "integer": false
+        },
+        "airblast_deflect_projectiles_disabled": {
+            "index": 826,
+            "integer": false
+        },
+        "airblast_put_out_teammate_disabled": {
+            "index": 827,
+            "integer": false
+        },
+        "afterburn duration penalty": {
+            "index": 828,
+            "integer": false
+        },
+        "afterburn duration bonus": {
+            "index": 829,
+            "integer": false
+        },
+        "aoe_deflection": {
+            "index": 830,
+            "integer": false
+        },
+        "mult_end_flame_size": {
+            "index": 831,
+            "integer": false
+        },
+        "airblast_give_teammate_speed_boost": {
+            "index": 832,
+            "integer": false
+        },
+        "airblast_turn_projectile_to_ammo": {
+            "index": 833,
+            "integer": false
+        },
+        "paintkit_proto_def_index": {
+            "index": 834,
+            "integer": true
+        },
+        "taunt_attr_player_invis_percent": {
+            "index": 835,
+            "integer": false
+        },
+        "redirected_flame_size_mult": {
+            "index": 837,
+            "integer": false
+        },
+        "flame_reflect_on_collision": {
+            "index": 838,
+            "integer": false
+        },
+        "flame_spread_degree": {
+            "index": 839,
+            "integer": false
+        },
+        "holster_anim_time": {
+            "index": 840,
+            "integer": false
+        },
+        "flame_gravity": {
+            "index": 841,
+            "integer": false
+        },
+        "flame_ignore_player_velocity": {
+            "index": 842,
+            "integer": false
+        },
+        "flame_drag": {
+            "index": 843,
+            "integer": false
+        },
+        "flame_speed": {
+            "index": 844,
+            "integer": false
+        },
+        "grenades1_resupply_denied": {
+            "index": 845,
+            "integer": false
+        },
+        "grenades2_resupply_denied": {
+            "index": 846,
+            "integer": false
+        },
+        "grenades3_resupply_denied": {
+            "index": 847,
+            "integer": false
+        },
+        "item_meter_resupply_denied": {
+            "index": 848,
+            "integer": false
+        },
+        "mult_player_movespeed_active": {
+            "index": 851,
+            "integer": false
+        },
+        "mult_dmgtaken_active": {
+            "index": 852,
+            "integer": false
+        },
+        "mult_patient_overheal_penalty_active": {
+            "index": 853,
+            "integer": false
+        },
+        "mult_health_fromhealers_penalty_active": {
+            "index": 854,
+            "integer": false
+        },
+        "mod_maxhealth_drain_rate": {
+            "index": 855,
+            "integer": false
+        },
+        "item_meter_charge_type": {
+            "index": 856,
+            "integer": false
+        },
+        "max_flame_reflection_count": {
+            "index": 859,
+            "integer": false
+        },
+        "flame_reflection_add_life_time": {
+            "index": 860,
+            "integer": false
+        },
+        "reflected_flame_dmg_reduction": {
+            "index": 861,
+            "integer": false
+        },
+        "flame_lifetime": {
+            "index": 862,
+            "integer": false
+        },
+        "flame_random_life_time_offset": {
+            "index": 863,
+            "integer": false
+        },
+        "flame_up_speed": {
+            "index": 865,
+            "integer": false
+        },
+        "custom_paintkit_seed_lo": {
+            "index": 866,
+            "integer": true
+        },
+        "custom_paintkit_seed_hi": {
+            "index": 867,
+            "integer": true
+        },
+        "crit_dmg_falloff": {
+            "index": 868,
+            "integer": false
+        },
+        "crits_become_minicrits": {
+            "index": 869,
+            "integer": false
+        },
+        "falling_impact_radius_pushback": {
+            "index": 870,
+            "integer": false
+        },
+        "falling_impact_radius_stun": {
+            "index": 871,
+            "integer": false
+        },
+        "thermal_thruster_air_launch": {
+            "index": 872,
+            "integer": false
+        },
+        "thermal_thruster": {
+            "index": 873,
+            "integer": false
+        },
+        "mult_item_meter_charge_rate": {
+            "index": 874,
+            "integer": false
+        },
+        "explode_on_ignite": {
+            "index": 875,
+            "integer": false
+        },
+        "lunchbox healing decreased": {
+            "index": 876,
+            "integer": false
+        },
+        "speed_boost_on_hit_enemy": {
+            "index": 877,
+            "integer": false
+        },
+        "item_meter_starts_empty_DISPLAY_ONLY": {
+            "index": 878,
+            "integer": false
+        },
+        "item_meter_charge_type_3_DISPLAY_ONLY": {
+            "index": 879,
+            "integer": false
+        },
+        "CARD: damage bonus": {
+            "index": 1000,
+            "integer": false
+        },
+        "CARD: dmg taken from bullets reduced": {
+            "index": 1001,
+            "integer": false
+        },
+        "CARD: move speed bonus": {
+            "index": 1002,
+            "integer": false
+        },
+        "CARD: health regen": {
+            "index": 1003,
+            "integer": false
+        },
+        "SPELL: set item tint RGB": {
+            "index": 1004,
+            "integer": false
+        },
+        "SPELL: set Halloween footstep type": {
+            "index": 1005,
+            "integer": false
+        },
+        "SPELL: Halloween voice modulation": {
+            "index": 1006,
+            "integer": false
+        },
+        "SPELL: Halloween pumpkin explosions": {
+            "index": 1007,
+            "integer": false
+        },
+        "SPELL: Halloween green flames": {
+            "index": 1008,
+            "integer": false
+        },
+        "SPELL: Halloween death ghosts": {
+            "index": 1009,
+            "integer": false
+        },
+        "Attack not cancel charge": {
+            "index": 1030,
+            "integer": false
+        },
+        "recipe component defined item 1": {
+            "index": 2000,
+            "integer": false
+        },
+        "recipe component defined item 2": {
+            "index": 2001,
+            "integer": false
+        },
+        "recipe component defined item 3": {
+            "index": 2002,
+            "integer": false
+        },
+        "recipe component defined item 4": {
+            "index": 2003,
+            "integer": false
+        },
+        "recipe component defined item 5": {
+            "index": 2004,
+            "integer": false
+        },
+        "recipe component defined item 6": {
+            "index": 2005,
+            "integer": false
+        },
+        "recipe component defined item 7": {
+            "index": 2006,
+            "integer": false
+        },
+        "recipe component defined item 8": {
+            "index": 2007,
+            "integer": false
+        },
+        "recipe component defined item 9": {
+            "index": 2008,
+            "integer": false
+        },
+        "recipe component defined item 10": {
+            "index": 2009,
+            "integer": false
+        },
+        "start drop date": {
+            "index": 2010,
+            "integer": false
+        },
+        "end drop date": {
+            "index": 2011,
+            "integer": false
+        },
+        "tool target item": {
+            "index": 2012,
+            "integer": false
+        },
+        "killstreak effect": {
+            "index": 2013,
+            "integer": false
+        },
+        "killstreak idleeffect": {
+            "index": 2014,
+            "integer": false
+        },
+        "spellbook page attr id": {
+            "index": 2015,
+            "integer": false
+        },
+        "Halloween Spellbook Page: Tumidum": {
+            "index": 2016,
+            "integer": true
+        },
+        "Halloween Spellbook Page: Gratanter": {
+            "index": 2017,
+            "integer": true
+        },
+        "Halloween Spellbook Page: Audere": {
+            "index": 2018,
+            "integer": true
+        },
+        "Halloween Spellbook Page: Congeriae": {
+            "index": 2019,
+            "integer": true
+        },
+        "Halloween Spellbook Page: Veteris": {
+            "index": 2020,
+            "integer": true
+        },
+        "additional halloween response criteria name": {
+            "index": 2021,
+            "integer": false
+        },
+        "loot rarity": {
+            "index": 2022,
+            "integer": true
+        },
+        "quality text override": {
+            "index": 2023,
+            "integer": false
+        },
+        "item name text override": {
+            "index": 2024,
+            "integer": false
+        },
+        "killstreak tier": {
+            "index": 2025,
+            "integer": false
+        },
+        "wide item level": {
+            "index": 2026,
+            "integer": true
+        },
+        "is australium item": {
+            "index": 2027,
+            "integer": true
+        },
+        "is marketable": {
+            "index": 2028,
+            "integer": false
+        },
+        "allowed in medieval mode": {
+            "index": 2029,
+            "integer": false
+        },
+        "crit on hard hit": {
+            "index": 2030,
+            "integer": false
+        },
+        "series number": {
+            "index": 2031,
+            "integer": false
+        },
+        "recipe no partial complete": {
+            "index": 2032,
+            "integer": false
+        },
+        "kill refills meter": {
+            "index": 2034,
+            "integer": false
+        },
+        "random drop line item unusual chance": {
+            "index": 2035,
+            "integer": false
+        },
+        "random drop line item unusual list": {
+            "index": 2036,
+            "integer": false
+        },
+        "random drop line item 0": {
+            "index": 2037,
+            "integer": true
+        },
+        "random drop line item 1": {
+            "index": 2038,
+            "integer": true
+        },
+        "random drop line item 2": {
+            "index": 2039,
+            "integer": true
+        },
+        "random drop line item 3": {
+            "index": 2040,
+            "integer": true
+        },
+        "taunt attach particle index": {
+            "index": 2041,
+            "integer": true
+        },
+        "loot list name": {
+            "index": 2042,
+            "integer": false
+        },
+        "upgrade rate decrease": {
+            "index": 2043,
+            "integer": false
+        },
+        "can shuffle crate contents": {
+            "index": 2044,
+            "integer": false
+        },
+        "random drop line item footer desc": {
+            "index": 2045,
+            "integer": false
+        },
+        "is commodity": {
+            "index": 2046,
+            "integer": false
+        },
+        "voice pitch scale": {
+            "index": 2048,
+            "integer": false
+        },
+        "gunslinger punch combo": {
+            "index": 2049,
+            "integer": false
+        },
+        "cannot delete": {
+            "index": 2050,
+            "integer": false
+        },
+        "quest loaner id low": {
+            "index": 2051,
+            "integer": true
+        },
+        "quest loaner id hi": {
+            "index": 2052,
+            "integer": true
+        },
+        "is_festivized": {
+            "index": 2053,
+            "integer": false
+        },
+        "fire particle blue": {
+            "index": 2054,
+            "integer": false
+        },
+        "fire particle red": {
+            "index": 2055,
+            "integer": false
+        },
+        "fire particle blue crit": {
+            "index": 2056,
+            "integer": false
+        },
+        "fire particle red crit": {
+            "index": 2057,
+            "integer": false
+        },
+        "meter_label": {
+            "index": 2058,
+            "integer": false
+        },
+        "item_meter_damage_for_full_charge": {
+            "index": 2059,
+            "integer": false
+        },
+        "airblast cost scale hidden": {
+            "index": 2062,
+            "integer": false
+        },
+        "dragons fury positive properties": {
+            "index": 2063,
+            "integer": false
+        },
+        "dragons fury negative properties": {
+            "index": 2064,
+            "integer": false
+        },
+        "dragons fury neutral properties": {
+            "index": 2065,
+            "integer": false
+        },
+        "force center wrap": {
+            "index": 2066,
+            "integer": false
+        },
+        "item slot criteria 1": {
+            "index": 3000,
+            "integer": false
+        },
+        "item in slot 1": {
+            "index": 3001,
+            "integer": false
+        },
+        "item slot criteria 2": {
+            "index": 3002,
+            "integer": false
+        },
+        "item in slot 2": {
+            "index": 3003,
+            "integer": false
+        },
+        "item slot criteria 3": {
+            "index": 3004,
+            "integer": false
+        },
+        "item in slot 3": {
+            "index": 3005,
+            "integer": false
+        },
+        "item slot criteria 4": {
+            "index": 3006,
+            "integer": false
+        },
+        "item in slot 4": {
+            "index": 3007,
+            "integer": false
+        },
+        "item slot criteria 5": {
+            "index": 3008,
+            "integer": false
+        },
+        "item in slot 5": {
+            "index": 3009,
+            "integer": false
+        },
+        "item slot criteria 6": {
+            "index": 3010,
+            "integer": false
+        },
+        "item in slot 6": {
+            "index": 3011,
+            "integer": false
+        },
+        "item slot criteria 7": {
+            "index": 3012,
+            "integer": false
+        },
+        "item in slot 7": {
+            "index": 3013,
+            "integer": false
+        },
+        "item slot criteria 8": {
+            "index": 3014,
+            "integer": false
+        },
+        "item in slot 8": {
+            "index": 3015,
+            "integer": false
+        },
+        "quest earned standard points": {
+            "index": 3016,
+            "integer": true
+        },
+        "quest earned bonus points": {
+            "index": 3017,
+            "integer": true
+        },
+        "item drop wave": {
+            "index": 3018,
+            "integer": true
+        }
+    },
+    "items": {
+        "TF_WEAPON_BAT": 0,
+        "TF_WEAPON_BOTTLE": 1,
+        "TF_WEAPON_FIREAXE": 2,
+        "TF_WEAPON_CLUB": 3,
+        "TF_WEAPON_KNIFE": 4,
+        "TF_WEAPON_FISTS": 5,
+        "TF_WEAPON_SHOVEL": 6,
+        "TF_WEAPON_WRENCH": 7,
+        "TF_WEAPON_BONESAW": 8,
+        "TF_WEAPON_SHOTGUN_PRIMARY": 9,
+        "TF_WEAPON_SHOTGUN_SOLDIER": 10,
+        "TF_WEAPON_SHOTGUN_HWG": 11,
+        "TF_WEAPON_SHOTGUN_PYRO": 12,
+        "TF_WEAPON_SCATTERGUN": 13,
+        "TF_WEAPON_SNIPERRIFLE": 14,
+        "TF_WEAPON_MINIGUN": 15,
+        "TF_WEAPON_SMG": 16,
+        "TF_WEAPON_SYRINGEGUN_MEDIC": 17,
+        "TF_WEAPON_ROCKETLAUNCHER": 18,
+        "TF_WEAPON_GRENADELAUNCHER": 19,
+        "TF_WEAPON_PIPEBOMBLAUNCHER": 20,
+        "TF_WEAPON_FLAMETHROWER": 21,
+        "TF_WEAPON_PISTOL": 22,
+        "TF_WEAPON_PISTOL_SCOUT": 23,
+        "TF_WEAPON_REVOLVER": 24,
+        "TF_WEAPON_PDA_ENGINEER_BUILD": 25,
+        "TF_WEAPON_PDA_ENGINEER_DESTROY": 26,
+        "TF_WEAPON_PDA_SPY": 27,
+        "TF_WEAPON_BUILDER": 28,
+        "TF_WEAPON_MEDIGUN": 29,
+        "TF_WEAPON_INVIS": 30,
+        "The Kritzkrieg": 35,
+        "The Blutsauger": 36,
+        "The Ubersaw": 37,
+        "The Axtinguisher": 38,
+        "The Flare Gun": 39,
+        "The Backburner": 40,
+        "Natascha": 41,
+        "The Sandvich": 42,
+        "The Killing Gloves of Boxing": 43,
+        "The Sandman": 44,
+        "The Force-a-Nature": 45,
+        "Bonk! Atomic Punch": 46,
+        "The Huntsman": 56,
+        "The Razorback": 57,
+        "Jarate": 58,
+        "The Dead Ringer": 59,
+        "The Cloak and Dagger": 60,
+        "The Ambassador": 61,
+        "The Direct Hit": 127,
+        "The Equalizer": 128,
+        "The Buff Banner": 129,
+        "The Scottish Resistance": 130,
+        "The Chargin' Targe": 131,
+        "The Eyelander": 132,
+        "The Gunboats": 133,
+        "The Wrangler": 140,
+        "The Frontier Justice": 141,
+        "The Gunslinger": 142,
+        "The Homewrecker": 153,
+        "The Pain Train": 154,
+        "The Southern Hospitality": 155,
+        "The Dalokohs Bar": 159,
+        "Crit-a-Cola": 163,
+        "The Tribalman's Shiv": 171,
+        "The Scotsman's Skullcutter": 172,
+        "The Vita-Saw": 173,
+        "Upgradeable TF_WEAPON_BAT": 190,
+        "Upgradeable TF_WEAPON_BOTTLE": 191,
+        "Upgradeable TF_WEAPON_FIREAXE": 192,
+        "Upgradeable TF_WEAPON_CLUB": 193,
+        "Upgradeable TF_WEAPON_KNIFE": 194,
+        "Upgradeable TF_WEAPON_FISTS": 195,
+        "Upgradeable TF_WEAPON_SHOVEL": 196,
+        "Upgradeable TF_WEAPON_WRENCH": 197,
+        "Upgradeable TF_WEAPON_BONESAW": 198,
+        "Upgradeable TF_WEAPON_SHOTGUN_PRIMARY": 199,
+        "Upgradeable TF_WEAPON_SCATTERGUN": 200,
+        "Upgradeable TF_WEAPON_SNIPERRIFLE": 201,
+        "Upgradeable TF_WEAPON_MINIGUN": 202,
+        "Upgradeable TF_WEAPON_SMG": 203,
+        "Upgradeable TF_WEAPON_SYRINGEGUN_MEDIC": 204,
+        "Upgradeable TF_WEAPON_ROCKETLAUNCHER": 205,
+        "Upgradeable TF_WEAPON_GRENADELAUNCHER": 206,
+        "Upgradeable TF_WEAPON_PIPEBOMBLAUNCHER": 207,
+        "Upgradeable TF_WEAPON_FLAMETHROWER": 208,
+        "Upgradeable TF_WEAPON_PISTOL": 209,
+        "Upgradeable TF_WEAPON_REVOLVER": 210,
+        "Upgradeable TF_WEAPON_MEDIGUN": 211,
+        "Upgradeable TF_WEAPON_INVIS": 212,
+        "The Powerjack": 214,
+        "The Degreaser": 215,
+        "The Shortstop": 220,
+        "The Holy Mackerel": 221,
+        "Mad Milk": 222,
+        "L'Etranger": 224,
+        "Your Eternal Reward": 225,
+        "The Battalion's Backup": 226,
+        "The Black Box": 228,
+        "The Sydney Sleeper": 230,
+        "Darwin's Danger Shield": 231,
+        "The Bushwacka": 232,
+        "Rocket Jumper": 237,
+        "Gloves of Running Urgently": 239,
+        "Stickybomb Jumper": 265,
+        "The Horseless Headless Horseman's Headtaker": 266,
+        "The Amputator": 304,
+        "The Crusader's Crossbow": 305,
+        "The Ullapool Caber": 307,
+        "The Loch-n-Load": 308,
+        "Warrior's Spirit": 310,
+        "The Buffalo Steak Sandvich": 311,
+        "The Brass Beast": 312,
+        "The Candy Cane": 317,
+        "The Boston Basher": 325,
+        "The Back Scratcher": 326,
+        "The Claidheamohmor": 327,
+        "The Jag": 329,
+        "Fists of Steel": 331,
+        "Sharpened Volcano Fragment": 348,
+        "Sun-on-a-Stick": 349,
+        "The Detonator": 351,
+        "The Concheror": 354,
+        "The Fan O'War": 355,
+        "Conniver's Kunai": 356,
+        "The Half-Zatoichi": 357,
+        "The Shahanshah": 401,
+        "The Bazaar Bargain": 402,
+        "The Persian Persuader": 404,
+        "Ali Baba's Wee Booties": 405,
+        "The Splendid Screen": 406,
+        "The Quick-Fix": 411,
+        "The Overdose": 412,
+        "The Solemn Vow": 413,
+        "The Liberty Launcher": 414,
+        "The Reserve Shooter": 415,
+        "The Market Gardener": 416,
+        "Tomislav": 424,
+        "The Family Business": 425,
+        "The Eviction Notice": 426,
+        "Fishcake": 433,
+        "The Cow Mangler 5000": 441,
+        "The Righteous Bison": 442,
+        "The Mantreads": 444,
+        "The Disciplinary Action": 447,
+        "The Soda Popper": 448,
+        "The Winger": 449,
+        "The Atomizer": 450,
+        "Three-Rune Blade": 452,
+        "The Postal Pummeler": 457,
+        "The Enforcer": 460,
+        "The Big Earner": 461,
+        "The Maul": 466,
+        "The Conscientious Objector": 474,
+        "Nessie's Nine Iron": 482,
+        "The Original": 513,
+        "The Diamondback": 525,
+        "The Machina": 526,
+        "The Widowmaker": 527,
+        "The Short Circuit": 528,
+        "Unarmed Combat": 572,
+        "The Wanga Prick": 574,
+        "Apoco-Fists": 587,
+        "The Pomson 6000": 588,
+        "The Eureka Effect": 589,
+        "The Third Degree": 593,
+        "The Phlogistinator": 594,
+        "The Manmelter": 595,
+        "The Bootlegger": 608,
+        "The Scottish Handshake": 609,
+        "The Sharp Dresser": 638,
+        "The Cozy Camper": 642,
+        "The Wrap Assassin": 648,
+        "The Spy-cicle": 649,
+        "Festive Minigun 2011": 654,
+        "The Holiday Punch": 656,
+        "Festive Rocket Launcher 2011": 658,
+        "Festive Flamethrower 2011": 659,
+        "Festive Bat 2011": 660,
+        "Festive Stickybomb Launcher 2011": 661,
+        "Festive Wrench 2011": 662,
+        "Festive Medigun 2011": 663,
+        "Festive Sniper Rifle 2011": 664,
+        "Festive Knife 2011": 665,
+        "Festive Scattergun 2011": 669,
+        "The Black Rose": 727,
+        "The Beggar's Bazooka": 730,
+        "TF_WEAPON_BUILDER_SPY": 735,
+        "Upgradeable TF_WEAPON_BUILDER_SPY": 736,
+        "Upgradeable TF_WEAPON_PDA_ENGINEER_BUILD": 737,
+        "The Lollichop": 739,
+        "The Scorch Shot": 740,
+        "The Rainblower": 741,
+        "The Cleaner's Carbine": 751,
+        "The Hitman's Heatmaker": 752,
+        "Baby Face's Blaster": 772,
+        "Pretty Boy's Pocket Pistol": 773,
+        "The Escape Plan": 775,
+        "Silver Botkiller Sniper Rifle Mk.I": 792,
+        "Silver Botkiller Minigun Mk.I": 793,
+        "Silver Botkiller Knife Mk.I": 794,
+        "Silver Botkiller Wrench Mk.I": 795,
+        "Silver Botkiller Medi Gun Mk.I": 796,
+        "Silver Botkiller Stickybomb Launcher Mk.I": 797,
+        "Silver Botkiller Flame Thrower Mk.I": 798,
+        "Silver Botkiller Scattergun Mk.I": 799,
+        "Silver Botkiller Rocket Launcher Mk.I": 800,
+        "Gold Botkiller Sniper Rifle Mk.I": 801,
+        "Gold Botkiller Minigun Mk.I": 802,
+        "Gold Botkiller Knife Mk.I": 803,
+        "Gold Botkiller Wrench Mk.I": 804,
+        "Gold Botkiller Medi Gun Mk.I": 805,
+        "Gold Botkiller Stickybomb Launcher Mk.I": 806,
+        "Gold Botkiller Flame Thrower Mk.I": 807,
+        "Gold Botkiller Scattergun Mk.I": 808,
+        "Gold Botkiller Rocket Launcher Mk.I": 809,
+        "The Red-Tape Recorder": 810,
+        "The Huo Long Heatmaker": 811,
+        "The Flying Guillotine": 812,
+        "The Neon Annihilator": 813,
+        "Promo Red-Tape Recorder": 831,
+        "Promo Huo Long Heatmaker": 832,
+        "Promo Flying Guillotine": 833,
+        "Promo Neon Annihilator": 834,
+        "Deflector": 850,
+        "The AWPer Hand": 851,
+        "The Robo-Sandvich": 863,
+        "The Freedom Staff": 880,
+        "Rust Botkiller Sniper Rifle Mk.I": 881,
+        "Rust Botkiller Minigun Mk.I": 882,
+        "Rust Botkiller Knife Mk.I": 883,
+        "Rust Botkiller Wrench Mk.I": 884,
+        "Rust Botkiller Medi Gun Mk.I": 885,
+        "Rust Botkiller Stickybomb Launcher Mk.I": 886,
+        "Rust Botkiller Flame Thrower Mk.I": 887,
+        "Rust Botkiller Scattergun Mk.I": 888,
+        "Rust Botkiller Rocket Launcher Mk.I": 889,
+        "Blood Botkiller Sniper Rifle Mk.I": 890,
+        "Blood Botkiller Minigun Mk.I": 891,
+        "Blood Botkiller Knife Mk.I": 892,
+        "Blood Botkiller Wrench Mk.I": 893,
+        "Blood Botkiller Medi Gun Mk.I": 894,
+        "Blood Botkiller Stickybomb Launcher Mk.I": 895,
+        "Blood Botkiller Flame Thrower Mk.I": 896,
+        "Blood Botkiller Scattergun Mk.I": 897,
+        "Blood Botkiller Rocket Launcher Mk.I": 898,
+        "Carbonado Botkiller Sniper Rifle Mk.I": 899,
+        "Carbonado Botkiller Minigun Mk.I": 900,
+        "Carbonado Botkiller Knife Mk.I": 901,
+        "Carbonado Botkiller Wrench Mk.I": 902,
+        "Carbonado Botkiller Medi Gun Mk.I": 903,
+        "Carbonado Botkiller Stickybomb Launcher Mk.I": 904,
+        "Carbonado Botkiller Flame Thrower Mk.I": 905,
+        "Carbonado Botkiller Scattergun Mk.I": 906,
+        "Carbonado Botkiller Rocket Launcher Mk.I": 907,
+        "Diamond Botkiller Sniper Rifle Mk.I": 908,
+        "Diamond Botkiller Minigun Mk.I": 909,
+        "Diamond Botkiller Knife Mk.I": 910,
+        "Diamond Botkiller Wrench Mk.I": 911,
+        "Diamond Botkiller Medi Gun Mk.I": 912,
+        "Diamond Botkiller Stickybomb Launcher Mk.I": 913,
+        "Diamond Botkiller Flame Thrower Mk.I": 914,
+        "Diamond Botkiller Scattergun Mk.I": 915,
+        "Diamond Botkiller Rocket Launcher Mk.I": 916,
+        "The Ap-Sap": 933,
+        "The Bat Outta Hell": 939,
+        "The Quackenbirdt": 947,
+        "Silver Botkiller Sniper Rifle Mk.II": 957,
+        "Silver Botkiller Minigun Mk.II": 958,
+        "Silver Botkiller Knife Mk.II": 959,
+        "Silver Botkiller Wrench Mk.II": 960,
+        "Silver Botkiller Medi Gun Mk.II": 961,
+        "Silver Botkiller Stickybomb Launcher Mk.II": 962,
+        "Silver Botkiller Flame Thrower Mk.II": 963,
+        "Silver Botkiller Scattergun Mk.II": 964,
+        "Silver Botkiller Rocket Launcher Mk.II": 965,
+        "Gold Botkiller Sniper Rifle Mk.II": 966,
+        "Gold Botkiller Minigun Mk.II": 967,
+        "Gold Botkiller Knife Mk.II": 968,
+        "Gold Botkiller Wrench Mk.II": 969,
+        "Gold Botkiller Medi Gun Mk.II": 970,
+        "Gold Botkiller Stickybomb Launcher Mk.II": 971,
+        "Gold Botkiller Flame Thrower Mk.II": 972,
+        "Gold Botkiller Scattergun Mk.II": 973,
+        "Gold Botkiller Rocket Launcher Mk.II": 974,
+        "The Loose Cannon": 996,
+        "The Rescue Ranger": 997,
+        "The Vaccinator": 998,
+        "Festive Holy Mackerel": 999,
+        "Festive Axtinguisher": 1000,
+        "Festive Buff Banner": 1001,
+        "Festive Sandvich": 1002,
+        "Festive Ubersaw": 1003,
+        "Festive Frontier Justice": 1004,
+        "Festive Huntsman": 1005,
+        "Festive Ambassador": 1006,
+        "Festive Grenade Launcher": 1007,
+        "The Ham Shank": 1013,
+        "Festive Force-a-Nature": 1078,
+        "Festive Crusader's Crossbow": 1079,
+        "Festive Sapper": 1080,
+        "Festive Flare Gun": 1081,
+        "Festive Eyelander": 1082,
+        "Festive Jarate": 1083,
+        "Festive Gloves of Running Urgently": 1084,
+        "Festive Black Box": 1085,
+        "Festive Wrangler": 1086,
+        "The Fortified Compound": 1092,
+        "The Classic": 1098,
+        "The Tide Turner": 1099,
+        "The Bread Bite": 1100,
+        "The B.A.S.E. Jumper": 1101,
+        "The Snack Attack": 1102,
+        "The Back Scatter": 1103,
+        "The Air Strike": 1104,
+        "The Self-Aware Beauty Mark": 1105,
+        "Mutated Milk": 1121,
+        "The Crossing Guard": 1127,
+        "Festive Shotgun 2014": 1141,
+        "Festive Revolver 2014": 1142,
+        "Festive Bonesaw 2014": 1143,
+        "Festive Targe 2014": 1144,
+        "Festive Bonk 2014": 1145,
+        "Festive Backburner 2014": 1146,
+        "Festive SMG 2014": 1149,
+        "The Quickiebomb Launcher": 1150,
+        "The Iron Bomber": 1151,
+        "TF_WEAPON_GRAPPLINGHOOK": 1152,
+        "Panic Attack Shotgun": 1153,
+        "The Dragon's Fury": 1178,
+        "The Thermal Thruster": 1179,
+        "The Gas Passer": 1180,
+        "The Hot Hand": 1181,
+        "The Second Banana": 1190,
+        "The Nostromo Napalmer": 30474,
+        "Shooting Star": 30665,
+        "The C.A.P.P.E.R": 30666,
+        "Batsaber": 30667,
+        "The Giger Counter": 30668,
+        "Prinny Machete": 30758
+    },
+    "skins": {
+        "redrockroscoe": 0,
+        "kit_wrappedreviver": 102,
+        "kit_carpetbomber": 104,
+        "kit_maskedmender": 105,
+        "kit_woodlandwarrior": 106,
+        "kit_forestfire": 109,
+        "kingofthejungle": 10,
+        "kit_backwoodsboomstick": 112,
+        "kit_woodsywidowmaker": 113,
+        "kit_nightowl": 114,
+        "nightterror": 11,
+        "kit_ironwood": 120,
+        "kit_plaidpotshotter": 122,
+        "backwoodsboomstick": 12,
+        "kit_bovineblazemaker": 130,
+        "kit_civilservant": 139,
+        "woodsywidowmaker": 13,
+        "kit_smalltownbringdown": 143,
+        "kit_civicduty": 144,
+        "nightowl": 14,
+        "kit_deadreckoner": 151,
+        "tartantorpedo": 15,
+        "kit_autumn": 160,
+        "kit_nutcracker": 161,
+        "kit_macabreweb": 163,
+        "rusticruiner": 16,
+        "barnburner": 17,
+        "homemadeheater": 18,
+        "lumberfromdownunder": 19,
+        "sandcannon": 1,
+        "workshop_equatorial_bloom": 200,
+        "workshop_bonus_ducks": 201,
+        "workshop_cashflow": 202,
+        "workshop_triple_alliance": 203,
+        "workshop_head_count": 204,
+        "workshop_fiery_inferno": 205,
+        "workshop_pizza_party": 206,
+        "workshop_sponsored_scout": 207,
+        "workshop_rising_star": 208,
+        "workshop_lucky_camouflage": 209,
+        "ironwood": 20,
+        "workshop_defender_of_the_freedom": 210,
+        "workshop_premium_cardboard": 211,
+        "workshop_pyroland_potpourri": 212,
+        "workshop_miami_element": 213,
+        "workshop_neo_tokyo": 214,
+        "workshop_geometrical_teams": 215,
+        "workshop_bomber_soul": 217,
+        "workshop_uranium": 218,
+        "countrycrusher": 21,
+        "workshop_cabin_fevered": 220,
+        "workshop_polar_surprise": 221,
+        "workshop_hana": 223,
+        "workshop_dovetailed": 224,
+        "workshop_cosmic_calamity": 225,
+        "workshop_hazard_warning": 226,
+        "workshop_mosaic": 228,
+        "plaidpotshotter": 22,
+        "workshop_jazzy": 230,
+        "workshop_alien_tech": 232,
+        "workshop_damascus_mahogany": 234,
+        "shotinthedark": 23,
+        "blastedbombardier": 24,
+        "reclaimedreanimator": 25,
+        "antiqueannihilator": 26,
+        "oldcountry": 27,
+        "americanpastoral": 28,
+        "backcountryblaster": 29,
+        "wrappedreviver": 2,
+        "yeti": 300,
+        "yetipark": 301,
+        "mannanas": 302,
+        "tropical_bird": 303,
+        "saxton": 304,
+        "hawaiian_shirt": 305,
+        "island_plants": 306,
+        "mannco_animal_trophy_stripe": 307,
+        "crocodile": 308,
+        "mannapples": 309,
+        "bovineblazemaker": 30,
+        "mannco_animal_trophy_spot": 310,
+        "warroom": 31,
+        "treadplatetormenter": 32,
+        "bogtrotter": 33,
+        "earthskyandfire": 34,
+        "hickoryholepuncher": 35,
+        "sprucedeuce": 36,
+        "teamsprayer": 37,
+        "rooftopwrangler": 38,
+        "dragons_fury_dragon": 390,
+        "stocking_stuffer2017": 391,
+        "civilservant": 39,
+        "psychedelicslugger": 3,
+        "citizenpain": 40,
+        "localhero": 41,
+        "mayor": 42,
+        "smalltownbringdown": 43,
+        "civicduty": 44,
+        "liquidasset": 45,
+        "blackdahlia": 46,
+        "lightningrod": 47,
+        "pinkelephant": 48,
+        "flashfryer": 49,
+        "carpetbomber": 4,
+        "sparkoflife": 50,
+        "deadreckoner": 51,
+        "shellshocker": 52,
+        "currentevent": 53,
+        "turbinetorcher": 54,
+        "brickhouse": 55,
+        "sandstonespecial": 56,
+        "aquamarine": 57,
+        "lowprofile": 58,
+        "thunderbolt": 59,
+        "maskedmender": 5,
+        "autumn": 60,
+        "nutcracker": 61,
+        "pumpkinpatch": 62,
+        "macabreweb": 63,
+        "boneyard": 64,
+        "wildwood": 65,
+        "balloonicorn": 66,
+        "rainbow": 67,
+        "sweetdreams": 68,
+        "bluemew": 69,
+        "woodlandwarrior": 6,
+        "braincandy": 70,
+        "stabbedtohell": 71,
+        "flowerpower": 72,
+        "mistercuddles": 73,
+        "shottohell": 74,
+        "torquedtohell": 75,
+        "coffinnail": 76,
+        "topshelf": 77,
+        "dressedtokill": 78,
+        "highrollers": 79,
+        "purplerange": 7,
+        "warhawk": 80,
+        "blitzkrieg": 81,
+        "airwolf": 82,
+        "corsair": 83,
+        "butcherbird": 84,
+        "killerbee": 85,
+        "redbear": 86,
+        "suddenflurry": 8,
+        "forestfire": 9
+    },
+    "upgrades": {
+        "0": 190,
+        "1": 191,
+        "2": 192,
+        "3": 193,
+        "4": 194,
+        "5": 195,
+        "6": 196,
+        "7": 197,
+        "8": 198,
+        "9": 199,
+        "10": 199,
+        "11": 199,
+        "12": 199,
+        "13": 200,
+        "14": 201,
+        "15": 202,
+        "16": 203,
+        "17": 204,
+        "18": 205,
+        "19": 206,
+        "20": 207,
+        "21": 208,
+        "22": 209,
+        "24": 210,
+        "25": 737,
+        "29": 211,
+        "30": 212,
+        "735": 736
+    },
+    "enums": {
+        "Hot": 701,
+        "Isotope": 702,
+        "Cool": 703,
+        "Energy Orb": 704,
+        "Team Shine": 1,
+        "Deadly Daffodil": 2,
+        "Manndarin": 3,
+        "Mean Green": 4,
+        "Agonizing Emerald": 5,
+        "Villainous Violet": 6,
+        "Hot Rod": 7
+    }
+}

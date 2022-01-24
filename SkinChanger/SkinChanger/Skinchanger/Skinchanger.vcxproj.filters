@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="nbqmemory.h" />
+    <ClInclude Include="stdafx.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="depositories">
+      <UniqueIdentifier>{b5b7b366-cd61-4fd2-8bc3-b32933117244}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
